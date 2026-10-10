@@ -4,7 +4,7 @@
 
 ### 👾 Hi, I'm CommanderVibeCody
 
-This is just a vibe coding account. No thoughts, only prompts.
+I'm just vibing. No thoughts, only prompts.
 
 ```python
 while True:
