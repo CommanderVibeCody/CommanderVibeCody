@@ -11,11 +11,6 @@ while True:
     vibe()  # TODO: understand what this does
 ```
 
-| Status        | Value                            |
-|---------------|----------------------------------|
-| Code written  | by AI                            |
-| Bugs          | by me                            |
-| Tests         | the vibes passed ✅              |
-| Commit style  | `git commit -m "vibes"`          |
+> Code written by AI, bugs written by me. 🎧
 
 <img src="https://komarev.com/ghpvc/?username=CommanderVibeCody&color=blueviolet&style=flat-square&label=vibe+checks" alt="Profile views" />
